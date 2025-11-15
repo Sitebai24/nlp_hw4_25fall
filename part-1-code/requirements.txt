@@ -1,0 +1,17 @@
+transformers==4.26.1
+datasets==2.9.0
+torch==1.13.1
+evaluate==0.4.0
+scikit-learn==1.2.1
+nltk==3.8.1
+
+
+# transformers==4.41.2
+# torch==2.3.1
+# datasets==2.19.1
+# pyarrow==16.1.0
+# fsspec==2024.5.0
+# evaluate==0.4.2
+# tqdm==4.66.4
+# numpy==1.26.4
+# nltk==3.8.1
